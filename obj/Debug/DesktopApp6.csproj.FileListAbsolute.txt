@@ -1,0 +1,10 @@
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\bin\Debug\DesktopApp6.exe.config
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\bin\Debug\DesktopApp6.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\bin\Debug\DesktopApp6.pdb
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.csprojAssemblyReference.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.Form1.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.Properties.Resources.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.csproj.GenerateResource.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.csproj.CoreCompileInputs.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp6\DesktopApp6\obj\Debug\DesktopApp6.pdb
