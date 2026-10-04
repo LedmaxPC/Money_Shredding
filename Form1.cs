@@ -144,7 +144,7 @@ namespace DesktopApp6
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            button1_Click_1(sender, e);
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
